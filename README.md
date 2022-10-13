@@ -11,4 +11,4 @@ Links:
 
 GitHub: https://github.com/Urstupidsammy/quizApp
 
-Live URl:
+Live URl: https://urstupidsammy.github.io/quizApp/
