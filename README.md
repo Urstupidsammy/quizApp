@@ -10,4 +10,5 @@ Screenshot:<img width="1440" alt="Screen Shot 2022-10-12 at 11 38 53 PM" src="ht
 Links:
 
 GitHub: https://github.com/Urstupidsammy/quizApp
+
 Live URl:
